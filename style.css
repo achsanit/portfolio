@@ -359,6 +359,23 @@ h2 {
     margin-bottom: 0.5rem;
 }
 
+.articles-more {
+    margin-top: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.articles-more a {
+    text-decoration: none;
+    font-size: larger;
+    color: #3ddc84;
+}
+
+.articles-more a:hover {
+    color: #1fa059;
+    text-decoration: underline;
+}
+
 .read-more {
     color: #3ddc84;
     font-weight: bold;
